@@ -2,8 +2,6 @@
 
 <img src="uet.png" alt="UET Logo" width="120" align="left"/>
 
----
-
 📘 **Course Project**: *Artificial Intelligence*  
 👩‍🏫 **Instructor**: Dr. Beenish Ayesha Ikram  
 🏫 **Institution**: University of Engineering & Technology (UET), Lahore  
