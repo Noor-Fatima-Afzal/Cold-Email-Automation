@@ -1,6 +1,6 @@
-# 📧 Cold Email Automation  
+# Cold Email Automation  
 
-<img src="uet.png" alt="UET Logo" width="120" align="right"/>
+<img src="uet.png" alt="UET Logo" width="120" align="left"/>
 
 ---
 
