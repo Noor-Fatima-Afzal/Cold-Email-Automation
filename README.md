@@ -2,9 +2,9 @@
 
 <img src="uet.png" alt="UET Logo" width="120" align="left"/>
 
-📘 **Course Project**: *Artificial Intelligence*  
-👩‍🏫 **Instructor**: Dr. Beenish Ayesha Ikram  
-🏫 **Institution**: University of Engineering & Technology (UET), Lahore  
+ **Course Project**: *Artificial Intelligence*  
+ **Instructor**: Dr. Beenish Ayesha Ikram  
+ **Institution**: University of Engineering & Technology (UET), Lahore  
 
 ---
 
@@ -16,7 +16,7 @@ It provides two execution modes:
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Faculty Data Scraping**: Extracts faculty details (name, department, qualifications, research interests, email, etc.) from a university site and saves them as CSV.  
 - **Personalized Emails**: Generates tailored inquiry emails for each faculty member.  
