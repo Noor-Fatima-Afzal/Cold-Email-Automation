@@ -7,6 +7,9 @@
  **Institution**: University of Engineering & Technology (UET), Lahore  
 
 ---
+<p align="center">
+  <img src="workflow.png" alt="Workflow Diagram" width="400"/>
+</p>
 
 # Cold Email Automation  
 This project automates **faculty data scraping** from university websites and sends **personalized email campaigns** using **LangChain** and **Groq LLMs**.  
